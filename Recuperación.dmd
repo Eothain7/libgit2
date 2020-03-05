@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Recuperación" id="58B33FAC-3A64-5B3B-F124-8A4509E1B1A8" version="3.5">
+<createdBy>dw1a</createdBy>
+<createdTime>2019-12-17 14:02:29 UTC</createdTime>
+<ownerDesignName>Recuperación</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>58B33FAC-3A64-5B3B-F124-8A4509E1B1A8</designId>
+</OSDM_Design>
